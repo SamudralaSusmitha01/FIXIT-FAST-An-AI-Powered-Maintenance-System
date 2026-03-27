@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔧 FixIt Fast — Backend API
 
 > Node.js + Express + MongoDB + Firebase Auth + OpenAI GPT
@@ -212,3 +213,7 @@ socket.on('status_updated', (data) => updateUI(data));
 | Real-time | Socket.io |
 | Validation | Joi |
 | Security | Helmet, express-rate-limit |
+=======
+# FIXIT-FAST-An-AI-Powered-Maintenance-System
+AI-powered property maintenance management platform connecting tenants and landlords with smart issue tracking, real-time updates, and automated diagnostics. Built with Node.js, MongoDB, Firebase, and OpenAI.
+>>>>>>> 99e85cc1dfa27a440e21b99c7f3370e0c88d5c79
